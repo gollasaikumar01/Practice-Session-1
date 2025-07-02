@@ -1,0 +1,24 @@
+.a{
+    background-color: rgb(216, 182, 118) ;
+}
+.b{
+    background-color:rgb(66, 211, 211);
+}
+button{
+    background-color: rgb(243, 14, 205);
+    color: rgb(0, 0, 0);
+    height:50px;
+    width: 250px;
+    padding: 20px;
+    border-radius: 30px 200px 305px 380px ;
+    margin:200px 110px 100px 100px;
+    outline-style: dashed 50px;
+    border-style:  none;
+}
+    button:hover{
+    background-color:rgb(32, 128, 218);
+    color: rgb(177, 68, 68);
+    border:2px solid rgb(192, 108, 108);   
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+    cursor: pointer;
+    }
