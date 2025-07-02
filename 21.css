@@ -1,0 +1,17 @@
+p{
+    text-align:center;
+    text-decoration: underline;
+    text-transform: uppercase;
+    font-weight:lighter;
+    line-height:  6;
+
+}
+body{
+    background: url("");
+}
+.a{
+    background-color: rgb(216, 182, 118) ;
+}
+.b{
+    background-color:rgb(66, 211, 211);
+}
